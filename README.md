@@ -2,7 +2,7 @@
 
 Bike Ride Demand Forecasting using Machine Learning
 
-🚀 Project Overview
+## Project Overview
 
 This project aims to forecast hourly bike ride demand using historical data from the London bike-sharing dataset. The predictions help optimize fleet management for bike-sharing platforms such as Ola.
 
